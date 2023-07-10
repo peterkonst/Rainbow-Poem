@@ -1,5 +1,5 @@
 oem# Rainbow-Poem
-The Rainbow and the unicorn
+The Rainbow and the unicorn and the pony
 Purple
 Pink
 Orange
@@ -11,3 +11,4 @@ Emerald
 Red
 These are the colours of the rainbow.
 And the unicorn
+Pony
