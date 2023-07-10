@@ -1,9 +1,12 @@
 oem# Rainbow-Poem
+The Rainbow and the unicorn
 Purple
 Pink
 Orange
 Blue
 Green
+Unicorn
 Yellow
 Red
 These are the colours of the rainbow.
+And the unicorn
